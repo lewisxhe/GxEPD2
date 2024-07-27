@@ -151,6 +151,9 @@
 #if __has_include("gdeq/GxEPD2_310_GDEQ031T10.h")
 #include "gdeq/GxEPD2_310_GDEQ031T10.h"
 #endif
+#if __has_include("gdeq/GxEPD2_371_GDEY037T03.h")
+#include "gdeq/GxEPD2_371_GDEY037T03.h"
+#endif
 #if __has_include("epd/GxEPD2_371.h")
 #include "epd/GxEPD2_371.h"
 #endif
